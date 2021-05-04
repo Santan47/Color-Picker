@@ -13,9 +13,9 @@ body{
 }
 
 #container{
-    width:30%;
+    width:50%;
     background:#4f0333;
-    height:30%;
+    height:50%;
     display: flex;
     justify-content: center;
     align-items: center;
